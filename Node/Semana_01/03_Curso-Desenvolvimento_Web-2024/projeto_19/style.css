@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+input, button {
+    padding: 6px 4px;
+    border-radius: 8px;
+    border: 1px solid grey;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
