@@ -1,0 +1,23 @@
+{
+  "name": "02_secao_20",
+  "version": "1.0.0",
+  "description": "Projeto simples com Node. Sistema para cadastro e consulta de vagas de emprego para Devs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Mateus Ferreira Martins <mateus_martins18@yahoo.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
